@@ -32,7 +32,7 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,python,pycharm,sqlite,flask,linux," />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,python,pycharm,sqlite,swift,linux," />
     <img src="https://skillicons.dev/icons?i=md,latex,matlab,r,arduino,anaconda,git"" /><br>
 </div>
 
