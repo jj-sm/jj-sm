@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [**IAAU**](https://github.com/jj-sm/IVAO-Aurora-Auto-Update)
+ 🔭 I’m currently working on [Astro 101 Wiki](https://wiki.astro101.studio/en/home)
  
- 💻 I’m currently learning **TypeScript, HTML5, CSS**
+ 💻 I’m currently learning **TypeScript, Julia, Mathlab**
 
 ⚡ Cat don't fly
 
