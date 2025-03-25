@@ -12,9 +12,7 @@
  
  🔭 I’m currently working on [Astro 101 Wiki](https://wiki.astro101.studio/en/home)
  
- 💻 I’m currently learning **TypeScript, Julia, Mathlab**
-
-⚡ Cat don't fly
+ 💻 I’m currently learning **TypeScript, Julia, Swift**
 
  </div>
  
