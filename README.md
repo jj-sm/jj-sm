@@ -54,14 +54,14 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img width="410" src="https://streak-stats.demolab.com?user=jj-sm&theme=white&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=jj-sm&count_private=true&show_icons=true&theme=white&rank_icon=percentile&hide_border=false&border_radius=10&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="390" src="https://github-readme-stats-ten-sage-10.vercel.app/api?username=jj-sm&count_private=true&show_icons=true&theme=white&rank_icon=percentile&hide_border=false&border_radius=10&include_all_commits=true" alt="GitHub Stats"/>
 </div>
 
 <br/>
 
 <!-- Second row: Top Languages -->
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj-sm&layout=compact&langs_count=8&theme=white&hide=html&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=false&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  <img width="325" src="https://github-readme-stats-ten-sage-10.vercel.app/api/top-langs/?username=jj-sm&layout=compact&langs_count=8&theme=white&hide=html&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=false&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
 
 <br/><br/>
