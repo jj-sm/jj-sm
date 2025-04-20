@@ -61,7 +61,7 @@
 
 <!-- Second row: Top Languages -->
 <div align="center">
-  <img width="325" src="https://github-readme-stats-ten-sage-10.vercel.app/api/top-langs/?username=jj-sm&layout=compact&langs_count=8&theme=white&hide=html&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=false&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  <img width="325" src="https://github-readme-stats-ten-sage-10.vercel.app/api/top-langs/?username=jj-sm" alt="Top Languages"/>
 </div>
 
 <br/><br/>
