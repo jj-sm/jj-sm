@@ -52,7 +52,7 @@
 
 <!-- First row: Streak and Main Stats side by side -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img width="410" src="https://github-readme-streak-stats-theta-six.vercel.app?user=jj-sm&theme=ocean-gradient&hide_border=true&border_radius=10" alt="GitHub Streak" alt="GitHub Streak"/>
+  <img width="410" src="https://github-readme-streak-stats-theta-six.vercel.app?user=jj-sm&hide_border=true&border_radius=10" alt="GitHub Streak" alt="GitHub Streak"/>
   
   <img width="390" src="https://jj-sm-github-stats-jj-sms-projects.vercel.app/api?username=jj-sm&count_private=true&show_icons=true&theme=white&rank_icon=percentile&hide_border=false&border_radius=10&include_all_commits=true" alt="GitHub Stats"/>
 </div>
