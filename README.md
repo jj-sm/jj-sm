@@ -61,7 +61,7 @@
 
 <!-- Second row: Top Languages -->
 <div align="center">
-  <img width="325" src="https://jj-sm-github-stats-jj-sms-projects.vercel.app/api/top-langs/?username=jj-sm&exclude_repo=github-readme-streak-stats,jj-sm-github-stats,github-readme-stats,anuraghazra.github.io&langs_count=10&layout=compact" alt="Top Languages"/>
+  <img width="325" src="https://jj-sm-github-stats-jj-sms-projects.vercel.app/api/top-langs/?username=jj-sm&langs_count=10&count_private=true&exclude_repo=github-readme-streak-stats,jj-sm-github-stats,github-readme-stats,anuraghazra.github.io&include_all_commits=true&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
 </div>
 
 <br/><br/>
