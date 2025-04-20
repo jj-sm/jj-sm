@@ -4,7 +4,7 @@
     <h1 align="center">Hi, I'm Juan Jo <img src="https://raw.githubusercontent.com/igorantun/igorantun/main/wave.gif" width="30"> !</h1>
 </h1>
 
-<h3 align="center">An aspiring astronomer and begginer at coding</h3>
+<h3 align="center"> Astronomy Student and Begginer at Coding</h3>
 
 <br/>
 
@@ -61,7 +61,7 @@
 
 <!-- Second row: Top Languages -->
 <div align="center">
-  <img width="325" src="https://jj-sm-github-stats-jj-sms-projects.vercel.app/api/top-langs/?username=jj-sm&langs_count=10&count_private=true&exclude_repo=github-readme-streak-stats,jj-sm-github-stats,github-readme-stats,anuraghazra.github.io&include_all_commits=true&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
+  <img width="325" src="https://jj-sm-github-stats-jj-sms-projects.vercel.app/api/top-langs/?username=jj-sm&langs_count=8&count_private=true&exclude_repo=github-readme-streak-stats,jj-sm-github-stats,github-readme-stats,anuraghazra.github.io&include_all_commits=true&size_weight=0.3&count_weight=0.7&hide=bst,bbl,bib,bibtex&layout=compact" alt="Top Languages"/>
 </div>
 
 <br/><br/>
