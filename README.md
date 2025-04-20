@@ -52,16 +52,16 @@
 
 <!-- First row: Streak and Main Stats side by side -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img width="410" src="https://streak-stats.demolab.com?user=jj-sm&theme=white&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img width="410" src="https://github-readme-streak-stats-theta-six.vercel.app?user=jj-sm&theme=ocean-gradient&hide_border=true&border_radius=10" alt="GitHub Streak" alt="GitHub Streak"/>
   
-  <img width="390" src="https://github-readme-stats-p6u4-git-master-jj-sms-projects.vercel.app/api?username=jj-sm&count_private=true&show_icons=true&theme=white&rank_icon=percentile&hide_border=false&border_radius=10&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="390" src="https://jj-sm-github-stats-jj-sms-projects.vercel.app/api?username=jj-sm&count_private=true&show_icons=true&theme=white&rank_icon=percentile&hide_border=false&border_radius=10&include_all_commits=true" alt="GitHub Stats"/>
 </div>
 
 <br/>
 
 <!-- Second row: Top Languages -->
 <div align="center">
-  <img width="325" src="https://github-readme-stats-p6u4-git-master-jj-sms-projects.vercel.app/api/top-langs/?username=jj-sm" alt="Top Languages"/>
+  <img width="325" src="https://jj-sm-github-stats-jj-sms-projects.vercel.app/api/top-langs/?username=jj-sm&exclude_repo=github-readme-streak-stats,jj-sm-github-stats,github-readme-stats,anuraghazra.github.io&langs_count=10&layout=compact" alt="Top Languages"/>
 </div>
 
 <br/><br/>
