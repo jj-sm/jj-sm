@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on [Astro 101 Wiki](https://wiki.astro101.studio/en/home)
  
- 💻 I’m currently learning **TypeScript, Julia, Swift**
+ 💻 I’m currently learning **Julia, Swift and C++**
 
  </div>
  
