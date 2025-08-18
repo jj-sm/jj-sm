@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,python,anaconda,sqlite,swift,linux,typescript" />
-    <img src="https://skillicons.dev/icons?i=md,latex,matlab,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=astro,javascript,md,latex,matlab,arduino" /><br>
 </div>
 
 <br/>
