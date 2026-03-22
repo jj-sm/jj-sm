@@ -30,8 +30,8 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,python,anaconda,sqlite,swift,linux,typescript" />
-    <img src="https://skillicons.dev/icons?i=astro,javascript,md,latex,matlab,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,python,cpp,anaconda,sqlite,swift,linux,typescript" />
+    <img src="https://skillicons.dev/icons?i=astro,javascript,md,latex,arduino" /><br>
 </div>
 
 <br/>
