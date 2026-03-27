@@ -4,7 +4,7 @@
     <h1 align="center">Hi, I'm Juan Jo <img src="https://raw.githubusercontent.com/igorantun/igorantun/main/wave.gif" width="30"> !</h1>
 </h1>
 
-<h3 align="center"> Astronomy Student and Begginer at Coding</h3>
+<h3 align="center">BSc. Astronomy & Astrophysics Student and Infiltrated Coder</h3>
 
 <br/>
 
