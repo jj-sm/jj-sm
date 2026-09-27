@@ -1,4 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jj-sm.jj-sm" />
+<p align="left">
+  <img src="https://wakapi.jjsm.science/api/badge/jjsm/interval:today?label=today" />
+  <img src="https://wakapi.jjsm.science/api/badge/jjsm/jjsm/interval:30_days?label=last%2030d" />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jj-sm.jj-sm" />
+</p>
 
 <h1 align="center">
     <h1 align="center">Hi, I'm Juan Jo <img src="https://raw.githubusercontent.com/igorantun/igorantun/main/wave.gif" width="30"> !</h1>
@@ -7,6 +11,7 @@
 <h3 align="center">BSc. Astronomy & Astrophysics Student and Infiltrated Coder</h3>
 
 <br/>
+
 
 <div align="center">
  
