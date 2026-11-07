@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/jj-sm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://jj-sm.github.io" target="_blank">
+  <a href="https://jjsm.science" target="_blank">
      <img src="https://img.shields.io/badge/About Me-white?style=for-the-badge&logo=safari&logoColor=blue" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
