@@ -15,7 +15,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [Sideralia](https://sideralia.org)
+ 🔭 I’m currently working on [`texshelf`](https://tex.jjsm.science) and [Sideralia](https://sideralia.org)
  
  💻 Currently learning **Julia and C++**
 
